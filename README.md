@@ -2,7 +2,7 @@
 
 A simple and modern To-Do application built with React - Just for design testing
 
-## 
+## Video of the App
 
 https://github.com/user-attachments/assets/70f28e76-8728-4d78-b3ef-efa487d70062
 
